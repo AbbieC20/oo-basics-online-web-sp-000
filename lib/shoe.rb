@@ -15,5 +15,5 @@ class Shoe
   def color
     @color
   end
-  
+
 end
