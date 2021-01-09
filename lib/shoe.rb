@@ -32,12 +32,12 @@ class Shoe
     @material
   end
 
-  def quality= (quality)
-    @quality = quality
+  def condition= (condition)
+    @condition = condition
   end
 
-  def quality
-    @quality
+  def condition
+    @condition
   end
 
 end
