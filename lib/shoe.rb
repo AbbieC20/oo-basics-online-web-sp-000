@@ -32,4 +32,12 @@ class Shoe
     @material
   end
 
+  def quality= (quality)
+    @quality = quality
+  end
+
+  def quality
+    @quality
+  end
+
 end
